@@ -1,0 +1,165 @@
+{
+  "id": 7777112555601,
+  "title": "Gold-Plated Pearl Bracelet for Women",
+  "body_html": "<p>Add a touch of timeless elegance to your look with this gold-plated pearl bracelet for women. Featuring a beautiful heart-shaped design, this cuff bracelet exudes vintage charm and is perfect for any occasion. The natural pearls are complemented by a delicate gold wire braided cuff, offering both sophistication and comfort. Wear it alone for a classic statement or pair it with other accessories for a chic, layered look.</p>\n<ul>\n <li> Material: Natural Pearl </li>\n <li> Style: Vintage, Natural </li>\n <li> Shape: Heart-shaped </li>\n <li> Bracelet Type: Cuff </li>\n <li> Plating: Gold-plated for an elegant finish </li>\n <li> Occasions: Perfect for birthdays, trade fairs, or special celebrations </li>\n <li> Comfortable Fit: Easy to wear, lightweight design </li>\n</ul>\n<p> Ideal Gift: This pearl bracelet makes an excellent gift for birthdays, anniversaries, or any occasion where you want to add a touch of elegance to someone's day.</p>\n<p></p>\n<p> Package Includes: 1x Gold-Plated Pearl Cuff Bracelet</p>\n<p>\n <br>\n</p>",
+  "vendor": "3",
+  "product_type": "0",
+  "created_at": "2025-05-04T16:19:45+03:00",
+  "handle": "gold-plated-pearl-bracelet-for-women",
+  "updated_at": "2025-07-07T00:41:39+03:00",
+  "published_at": "2025-05-04T16:19:52+03:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "",
+  "status": "active",
+  "admin_graphql_api_id": "gid://shopify/Product/7777112555601",
+  "variants": [
+    {
+      "product_id": 7777112555601,
+      "id": 42410431184977,
+      "title": "Gold",
+      "price": "10.92",
+      "position": 1,
+      "inventory_policy": "deny",
+      "compare_at_price": null,
+      "option1": "Gold",
+      "option2": null,
+      "option3": null,
+      "created_at": "2025-05-04T16:19:50+03:00",
+      "updated_at": "2025-05-05T00:17:46+03:00",
+      "taxable": false,
+      "barcode": null,
+      "fulfillment_service": "manual",
+      "grams": 8,
+      "inventory_management": "shopify",
+      "requires_shipping": true,
+      "sku": "CJSL107370701AZ",
+      "weight": 8.0,
+      "weight_unit": "g",
+      "inventory_item_id": 44494980612177,
+      "inventory_quantity": 40000,
+      "old_inventory_quantity": 40000,
+      "admin_graphql_api_id": "gid://shopify/ProductVariant/42410431184977",
+      "image_id": 35661225820241
+    }
+  ],
+  "options": [
+    {
+      "product_id": 7777112555601,
+      "id": 9894537527377,
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Gold"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": 35661225459793,
+      "alt": null,
+      "position": 1,
+      "product_id": 7777112555601,
+      "created_at": "2025-05-04T16:19:46+03:00",
+      "updated_at": "2025-05-04T16:19:47+03:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/35661225459793",
+      "width": 1600,
+      "height": 1600,
+      "src": "https://cdn.shopify.com/s/files/1/0665/9014/6641/files/38d715c9-383b-4ad2-93a6-380565d8145a.jpg?v=1746364787",
+      "variant_ids": []
+    },
+    {
+      "id": 35661225525329,
+      "alt": null,
+      "position": 2,
+      "product_id": 7777112555601,
+      "created_at": "2025-05-04T16:19:46+03:00",
+      "updated_at": "2025-05-04T16:19:48+03:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/35661225525329",
+      "width": 1600,
+      "height": 1600,
+      "src": "https://cdn.shopify.com/s/files/1/0665/9014/6641/files/7c329a83-bca6-4c54-939a-dbb9e448282a.jpg?v=1746364788",
+      "variant_ids": []
+    },
+    {
+      "id": 35661225590865,
+      "alt": null,
+      "position": 3,
+      "product_id": 7777112555601,
+      "created_at": "2025-05-04T16:19:47+03:00",
+      "updated_at": "2025-05-04T16:19:49+03:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/35661225590865",
+      "width": 1600,
+      "height": 1600,
+      "src": "https://cdn.shopify.com/s/files/1/0665/9014/6641/files/99074ac2-53ae-447a-94a9-d2135edc72e3.jpg?v=1746364789",
+      "variant_ids": []
+    },
+    {
+      "id": 35661225656401,
+      "alt": null,
+      "position": 4,
+      "product_id": 7777112555601,
+      "created_at": "2025-05-04T16:19:48+03:00",
+      "updated_at": "2025-05-04T16:19:50+03:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/35661225656401",
+      "width": 1600,
+      "height": 1600,
+      "src": "https://cdn.shopify.com/s/files/1/0665/9014/6641/files/49a33ca6-0164-4b9a-885c-5b156ec004c4.jpg?v=1746364790",
+      "variant_ids": []
+    },
+    {
+      "id": 35661225754705,
+      "alt": null,
+      "position": 5,
+      "product_id": 7777112555601,
+      "created_at": "2025-05-04T16:19:49+03:00",
+      "updated_at": "2025-05-04T16:19:51+03:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/35661225754705",
+      "width": 1600,
+      "height": 1600,
+      "src": "https://cdn.shopify.com/s/files/1/0665/9014/6641/files/d8f8a193-308a-4767-95a9-4482d9b0161f.jpg?v=1746364790",
+      "variant_ids": []
+    },
+    {
+      "id": 35661225787473,
+      "alt": null,
+      "position": 6,
+      "product_id": 7777112555601,
+      "created_at": "2025-05-04T16:19:50+03:00",
+      "updated_at": "2025-05-04T16:19:51+03:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/35661225787473",
+      "width": 1600,
+      "height": 1600,
+      "src": "https://cdn.shopify.com/s/files/1/0665/9014/6641/files/fcea1ac5-e4a9-4d6c-8a02-2ac993ddfd9c.jpg?v=1746364791",
+      "variant_ids": []
+    },
+    {
+      "id": 35661225820241,
+      "alt": null,
+      "position": 7,
+      "product_id": 7777112555601,
+      "created_at": "2025-05-04T16:19:50+03:00",
+      "updated_at": "2025-05-04T16:19:52+03:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/35661225820241",
+      "width": 890,
+      "height": 755,
+      "src": "https://cdn.shopify.com/s/files/1/0665/9014/6641/files/84198633-7006-4eeb-9297-516b558a0271.jpg?v=1746364792",
+      "variant_ids": [
+        42410431184977
+      ]
+    }
+  ],
+  "image": {
+    "id": 35661225459793,
+    "alt": null,
+    "position": 1,
+    "product_id": 7777112555601,
+    "created_at": "2025-05-04T16:19:46+03:00",
+    "updated_at": "2025-05-04T16:19:47+03:00",
+    "admin_graphql_api_id": "gid://shopify/ProductImage/35661225459793",
+    "width": 1600,
+    "height": 1600,
+    "src": "https://cdn.shopify.com/s/files/1/0665/9014/6641/files/38d715c9-383b-4ad2-93a6-380565d8145a.jpg?v=1746364787",
+    "variant_ids": []
+  }
+}

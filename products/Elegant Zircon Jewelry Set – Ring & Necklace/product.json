@@ -1,0 +1,139 @@
+{
+  "id": 7776355811409,
+  "title": "Elegant Zircon Jewelry Set – Ring & Necklace",
+  "body_html": "<p></p>\n<p>Shine with timeless elegance. This stunning jewelry set features a beautifully inlaid zircon ring and a matching necklace, both crafted from eco-friendly copper with a premium 925 silver finish. Tarnish-resistant and designed to last, it’s the perfect accessory to elevate any outfit with a touch of luxury.</p>\n<p>\n <br>\n</p>",
+  "vendor": "3",
+  "product_type": "0",
+  "created_at": "2025-05-01T03:50:10+03:00",
+  "handle": "elegant-zircon-jewelry-set-ring-necklace",
+  "updated_at": "2025-07-07T00:41:22+03:00",
+  "published_at": "2025-05-01T03:50:16+03:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "",
+  "status": "active",
+  "admin_graphql_api_id": "gid://shopify/Product/7776355811409",
+  "variants": [
+    {
+      "product_id": 7776355811409,
+      "id": 42405986828369,
+      "title": "Silver",
+      "price": "11.53",
+      "position": 1,
+      "inventory_policy": "deny",
+      "compare_at_price": null,
+      "option1": "Silver",
+      "option2": null,
+      "option3": null,
+      "created_at": "2025-05-01T03:50:14+03:00",
+      "updated_at": "2025-05-05T00:21:14+03:00",
+      "taxable": false,
+      "barcode": null,
+      "fulfillment_service": "manual",
+      "grams": 7,
+      "inventory_management": "shopify",
+      "requires_shipping": true,
+      "sku": "CJZBGJZB00078-Silver",
+      "weight": 7.0,
+      "weight_unit": "g",
+      "inventory_item_id": 44490591895633,
+      "inventory_quantity": 33486,
+      "old_inventory_quantity": 33486,
+      "admin_graphql_api_id": "gid://shopify/ProductVariant/42405986828369",
+      "image_id": 35644375859281
+    }
+  ],
+  "options": [
+    {
+      "product_id": 7776355811409,
+      "id": 9893589286993,
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Silver"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": 35644375433297,
+      "alt": null,
+      "position": 1,
+      "product_id": 7776355811409,
+      "created_at": "2025-05-01T03:50:11+03:00",
+      "updated_at": "2025-05-01T03:50:13+03:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/35644375433297",
+      "width": 400,
+      "height": 400,
+      "src": "https://cdn.shopify.com/s/files/1/0665/9014/6641/files/2969157775_1917884442.400x400_8dba0a32-8361-43fa-bdbb-ea598e288000.jpg?v=1746060613",
+      "variant_ids": []
+    },
+    {
+      "id": 35644375695441,
+      "alt": null,
+      "position": 2,
+      "product_id": 7776355811409,
+      "created_at": "2025-05-01T03:50:12+03:00",
+      "updated_at": "2025-05-01T03:50:14+03:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/35644375695441",
+      "width": 1000,
+      "height": 1000,
+      "src": "https://cdn.shopify.com/s/files/1/0665/9014/6641/files/1402103680588_b102111d-a021-47af-a404-db0b29d237bc.jpg?v=1746060614",
+      "variant_ids": []
+    },
+    {
+      "id": 35644375760977,
+      "alt": null,
+      "position": 3,
+      "product_id": 7776355811409,
+      "created_at": "2025-05-01T03:50:13+03:00",
+      "updated_at": "2025-05-01T03:50:14+03:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/35644375760977",
+      "width": 1000,
+      "height": 1000,
+      "src": "https://cdn.shopify.com/s/files/1/0665/9014/6641/files/75454690995_35f7f562-8c58-40c9-ab49-9912063c5517.jpg?v=1746060614",
+      "variant_ids": []
+    },
+    {
+      "id": 35644375826513,
+      "alt": null,
+      "position": 4,
+      "product_id": 7776355811409,
+      "created_at": "2025-05-01T03:50:14+03:00",
+      "updated_at": "2025-05-01T03:50:15+03:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/35644375826513",
+      "width": 1000,
+      "height": 1000,
+      "src": "https://cdn.shopify.com/s/files/1/0665/9014/6641/files/1165136146049_7a1877e9-fa1e-4648-91b1-8a27465f5ccc.jpg?v=1746060615",
+      "variant_ids": []
+    },
+    {
+      "id": 35644375859281,
+      "alt": null,
+      "position": 5,
+      "product_id": 7776355811409,
+      "created_at": "2025-05-01T03:50:14+03:00",
+      "updated_at": "2025-05-01T03:50:16+03:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/35644375859281",
+      "width": 400,
+      "height": 400,
+      "src": "https://cdn.shopify.com/s/files/1/0665/9014/6641/files/2969157775_1917884442.400x400_f86761af-f2b1-4a19-9f4b-d886517a01fe.jpg?v=1746060616",
+      "variant_ids": [
+        42405986828369
+      ]
+    }
+  ],
+  "image": {
+    "id": 35644375433297,
+    "alt": null,
+    "position": 1,
+    "product_id": 7776355811409,
+    "created_at": "2025-05-01T03:50:11+03:00",
+    "updated_at": "2025-05-01T03:50:13+03:00",
+    "admin_graphql_api_id": "gid://shopify/ProductImage/35644375433297",
+    "width": 400,
+    "height": 400,
+    "src": "https://cdn.shopify.com/s/files/1/0665/9014/6641/files/2969157775_1917884442.400x400_8dba0a32-8361-43fa-bdbb-ea598e288000.jpg?v=1746060613",
+    "variant_ids": []
+  }
+}
